@@ -1,3 +1,5 @@
+scikit-learn
+streamlit
 pdfplumber
 spacy
 sentence-transformers

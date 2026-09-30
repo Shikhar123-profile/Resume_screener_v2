@@ -1,0 +1,1 @@
+Compare the resume text with the Job Description using AI/NLP to see how well the candidate's experience matches the job requirements.  Output a Score (0% to 100%) and display missing skills on an interactive web dashboard.
